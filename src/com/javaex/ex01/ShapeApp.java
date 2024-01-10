@@ -12,7 +12,7 @@ public class ShapeApp {
 		//sr1을 그리는 메소드 호출
 		sr1.draw();
 		//sr1의 가로크기 출력
-		System.out.println("sr1"+sr1.toString());
+		System.out.println("sr1의 가로는 "+((Ractangle)sr1).getWidth()+" 입니다.");
 	}
 }
 

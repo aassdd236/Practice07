@@ -38,13 +38,6 @@ public class Ractangle extends Shape{
 				+" #세로:" + height + " 그렸습니다.");                                                                        
 	}
 
-	@Override
-	public String toString() {
-		return "의 가로는 "+ width + " 입니다.";
-	}
-	
-	
-
 }
 
 
